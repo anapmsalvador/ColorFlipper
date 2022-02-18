@@ -1,0 +1,26 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav{
+    display:flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 2rem;
+}
+.middle{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    margin: 100px;
+}
+
+.container{
+    text-align: center;
+    background-color: #F1f5f8;
+    border-radius: 5px;
+    padding: 10px;
+}
+
